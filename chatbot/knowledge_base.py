@@ -10,3 +10,7 @@ documents = [
     "Abhay is a good guy",
     "Abhay was born in 1996"
 ]
+
+import os
+
+print(os.getcwd())  # Shows current directory
